@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VLSI/Desktop/N150194/LUT2_obc/LUT2_obc.srcs/sources_1/ip/vio_0/sim/vio_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vio_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VLSI/Desktop/N150194/LUT2_obc/LUT2_obc.srcs/sources_1/new/vm_obc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vm_obc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VLSI/Desktop/N150194/LUT2_obc/LUT2_obc.srcs/sources_1/new/vio_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vio_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VLSI/Desktop/N150194/LUT2_obc/LUT2_obc.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
